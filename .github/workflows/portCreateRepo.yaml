@@ -16,7 +16,7 @@ on:
 jobs:
   scaffold-service:
     env:
-      ORG_NAME: <YOUR-ORG-NAME>
+      ORG_NAME: simorex80
     runs-on: ubuntu-latest
     steps:
       - uses: port-labs/cookiecutter-gha@v1.1.1
